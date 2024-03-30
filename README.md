@@ -1,10 +1,6 @@
-# presentacion-
-
-- Escriban presentación sobre ustedes.
-- Suban la presentación a Git.
-- Realicen algun cambio.
-- Suban los nuevos cambios.
-- Compartan el link por discord
-- Hagan algun comentario sobre el repositorio de algun otro compañere. Al menos 2.
-
-Ya saben usar git!
+# Lucas Cerutti
+- Soy de General roca, Rio negro pero me vine a estudiar a CABA
+  # Que me gusta
+  - El deporte, principalmente el futbol.
+  - Tocar la guitarra y el piano
+  - disfruto mucho ver peliculas, mi pelicula favorita del ultimo año es poor things y le robaron el oscar. 
